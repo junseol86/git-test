@@ -1,1 +1,1 @@
-let message = "file for master"
+let message = "file for master";
